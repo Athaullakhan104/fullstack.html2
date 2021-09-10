@@ -1,0 +1,25 @@
+.bg-container{background-image:URL("https://compass-ssl.xbox.com/assets/48/b7/48b7d00b-45ef-4bf7-b3cc-30e0e5c07d1b.jpg?n=PUBG_GLP-Page-Hero-1084_1920x1080.jpg");
+              height:100vh;
+			  background-size:cover;}
+			  
+.mainheading{text-align:right;
+             font-style:italic;
+			 font-size:65px;
+             color:orange;
+             margin:15px;}
+			 
+			 
+.bg-color{background-color:white;
+          color:black;
+          width:500px;
+          margin:10px;
+          padding:5px;}
+
+.button{background-color:green;
+        
+        border-raduis:5px;}
+
+.jillu{text-align:center;}		
+
+		
+		
